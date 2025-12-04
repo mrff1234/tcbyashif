@@ -80,7 +80,7 @@ export default function HomePage() {
       <div className="bg-white border-b border-gray-200 p-6">
         <div className="flex items-center justify-between mb-4">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">Money Tracker</h1>
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">Money Tracker by Ashif</h1>
             <p className="text-gray-600">Track money given and received</p>
           </div>
         </div>
